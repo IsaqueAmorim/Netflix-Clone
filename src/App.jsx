@@ -4,6 +4,7 @@ import './App.css';
 import Tmdb from './imdb';
 import { MovieRow } from './components/movieRow/movieRow';
 import {Header,MovieFeatured} from './components/Header/header';
+import Footer from './components/footer/footer'
 
 
 
@@ -67,6 +68,7 @@ function App() {
           
         ))}
       </section>
+      <Footer/>
   </div>
   );
 }

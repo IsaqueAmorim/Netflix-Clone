@@ -1,7 +1,5 @@
 # ⚛️ Netflix Clone com React-Js
 
-<img src='https://github.com/IsaqueAmorim/netflix-clone/blob/main/screenshots/Header.png'/>
-
 Olá dev, essa semana me dediquei a esse projeto react que considerei de certa forma até complexo, e fiquei bastante feliz com o resultado. Aprendi bastante no processo de criação desse projeto, pois foram muitos desafios diferentes e vários bugs que tive que resolver, mas que no final me ensinaram muito.
 
 Uma das partes mais incríveis que eu me deparei nesse projeto foi com o consumo da API de filmes (TMDB), foram vários detalhes que me ensinaram muita coisa e me mostraram que CADA DETALHE IMPORTA, porque no consumo de uma API apenas uma letra faz com que toda a requisição seja negada e venha o famoso **404**.
